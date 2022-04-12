@@ -1,0 +1,3 @@
+branchcommit
+
+先从分支branchcommit提交，最后再合并master.
